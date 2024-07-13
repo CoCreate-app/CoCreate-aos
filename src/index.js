@@ -1,4 +1,4 @@
 
-import AOS from "@cocreate/aos"
+import AOS from "aos"
 
 AOS.init();
