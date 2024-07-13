@@ -1,0 +1,23 @@
+@media (prefers-color-scheme:dark) {
+
+    .markdown-body,
+    [data-theme=dark] {
+        color-scheme: dark;
+        --fgColor-default: inherit;
+        --bgColor-default: inherit;
+    }
+}
+
+@media (prefers-color-scheme:light) {
+
+    .markdown-body,
+    [data-theme=light] {
+        color-scheme: light;
+        --fgColor-default: inherit;
+        --bgColor-default: inherit;
+    }
+}
+
+.markdown-body[contenteditable]{
+    min-height: 24px;
+}
