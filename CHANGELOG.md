@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.0.3...v1.1.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([00234cd](https://github.com/CoCreate-app/CoCreate-aos/commit/00234cd8a6e0704bdb572c3bd7dbca53e3550ff2))
+
+
+### Features
+
+* add prettier.config.js and format files ([f036907](https://github.com/CoCreate-app/CoCreate-aos/commit/f03690770e292e728f75c347cb5461f61856f44b))
+* add prettier.config.js and format files ([d9f2a83](https://github.com/CoCreate-app/CoCreate-aos/commit/d9f2a830b8696d4572d0a6cdcf1ed726710566a2))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.0.2...v1.0.3) (2024-07-13)
 
 
