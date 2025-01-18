@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.1.0...v1.1.1) (2025-01-18)
+
+
+### Bug Fixes
+
+* aos fires once ([6997acf](https://github.com/CoCreate-app/CoCreate-aos/commit/6997acf6eb031780ddf10baf9887df387ae84275))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.0.3...v1.1.0) (2024-11-04)
 
 
