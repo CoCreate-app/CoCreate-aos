@@ -1,3 +1,13 @@
+## [1.1.2](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.1.1...v1.1.2) (2025-05-01)
+
+
+### Bug Fixes
+
+* added css-loader ([838c602](https://github.com/CoCreate-app/CoCreate-aos/commit/838c6027f81de8b3a2b187a1de22196ae2a90d0e))
+* update [@cocreate](https://github.com/cocreate) dependencies ([8acc35f](https://github.com/CoCreate-app/CoCreate-aos/commit/8acc35f0c3e0e520df7accbe17a7cdb1654e1e3f))
+* update query attributes ([da797dc](https://github.com/CoCreate-app/CoCreate-aos/commit/da797dcc66921a4b3ab94470c2f7b1b11a7f929b))
+* updated cocreate modules versions ([20d1463](https://github.com/CoCreate-app/CoCreate-aos/commit/20d146350dcb01f03d6adc978cfac28894a763d1))
+
 ## [1.1.1](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.1.0...v1.1.1) (2025-01-18)
 
 
