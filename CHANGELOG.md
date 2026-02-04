@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.1.2...v1.1.3) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([10bffd4](https://github.com/CoCreate-app/CoCreate-aos/commit/10bffd4fb92c870b355ee9f5e9c1a3a8132da987))
+
 ## [1.1.2](https://github.com/CoCreate-app/CoCreate-aos/compare/v1.1.1...v1.1.2) (2025-05-01)
 
 
